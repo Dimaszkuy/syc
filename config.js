@@ -41,14 +41,14 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['12012854669'] //ur owner number
-global.ownername = "GadingAgani"
+global.owner = ['081259929402'] //ur owner number
+global.ownername = "Ini orang"
 global.ytname = "YT: Gading Agani" //ur yt chanel name
 global.socialm = "Instagram : @gadingagani" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bombdy
-global.botname = "SychoBot" //ur bot name
+global.botname = "orang xixi" //ur bot name
 global.websitex = "https://youtube.com/channel/UCfPxifuwrqmfUBy2JaldYAQ" //ur website
 global.sycho = "https://bit.ly/Sycho-RGA"
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
@@ -56,8 +56,8 @@ global.packname = "SychoBot\n\n\n\n\n\n\n🗿🗿🗿🙏 "
 global.author = "GadingAgani"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['12012854669'] //ur owner tag
-global.ownernummenu = ['12012854669'] //ur owner number in menu and all
+global.ownertag = ['081259929402'] //ur owner tag
+global.ownernummenu = ['081259929402'] //ur owner number in menu and all
 global.watermark = "SychoBot" //ur watermark
 global.botscript = "https://github.com/RGA42/siro"
 global.linkz1 = "https://bit.ly/Sycho-RGA"
